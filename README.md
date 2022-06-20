@@ -1,4 +1,4 @@
-Hi 👋 My name is Lucas Svirsky
+Sup 😎. I'm Lucas.
 ==============================
 
 Student and Developer
