@@ -4,7 +4,7 @@ Sup 😎. I'm Lucas.
 Student and Developer
 ---------------------
 
-I've been developing for a short while, starting off with modifying Minecraft and creating unique clients for the game. I'm currently a student at Wesleyan University, studying both Computer Science and Data Analysis.
+I've been developing for a short while, starting off with modifying Minecraft and creating unique client modifications for the game. I'm currently a student at Wesleyan University, studying both Computer Science and Informatics and Modeling. Generally, I'm interested in development of general utilities for students at my University, and also general video-game development.
 
 * 🌍  I'm based in Connecticut
 * ✉️  You can contact me at [lsvirsky@wesleyan.edu](mailto:lsvirsky@wesleyan.edu)
