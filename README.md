@@ -4,12 +4,11 @@ Sup 😎. I'm Lucas.
 Student and Developer
 ---------------------
 
-I've been developing for a short while, starting off with modifying Minecraft and creating unique client modifications for the game. I'm currently a student at Wesleyan University, studying both Computer Science and Informatics and Modeling. Generally, I'm interested in development of general utilities for students at my University, and also general video-game development.
+I've been developing applications for the majority of my life, starting with modifying Minecraft and creating unique client modifications for the game. I'm now a student at Wesleyan University, studying both Computer Science and Organizations and Business in Society, a major I created. I'm interested in developing my business and technology knowledge to develop innovative solutions that can drive organizational success while improving user experiences. I'm also keen on exploring emerging technologies such as machine learning, artificial intelligence, neuroscience, neuropharmacology, and nootropics (which are a personal passion of mine) to stay at the forefront of technological advancements.
 
 * 🌍  I'm based in Connecticut
 * ✉️  You can contact me at [lsvirsky@wesleyan.edu](mailto:lsvirsky@wesleyan.edu)
-* 🧠  I'm learning Java
-* 🤝  I'm open to collaborating on projects featuring Minecraft Development
+* 🧠  I'm learning Python, Java, C, and SML.
 
 <a href="https://www.github.com/lucas-svi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lucas-svi?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
