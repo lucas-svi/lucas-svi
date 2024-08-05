@@ -1,33 +1,57 @@
 Sup 😎. I'm Lucas.
 ==============================
 
-Student and Developer
----------------------
+Student, Entrepreneur, Developer
+--------------------------------
 
-I've been developing applications for the majority of my life, starting with modifying Minecraft and creating unique client modifications for the game. I'm now a student at Wesleyan University, studying both Computer Science and Organizations and Business in Society, a major I created. I'm interested in developing my business and technology knowledge to develop innovative solutions that can drive organizational success while improving user experiences. I'm also keen on exploring emerging technologies such as machine learning, artificial intelligence, neuroscience, neuropharmacology, and nootropics (which are a personal passion of mine) to stay at the forefront of technological advancements.
+I've been developing applications for the majority of my life, starting with modifying Minecraft and creating unique client modifications for the game, and even creating my own company out of it—Novoline. I'm now a student at Wesleyan University, studying both Computer Science and Organizations and Business in Society—a major I created. 
+I'm interested in developing my business and technology knowledge to develop innovative solutions to drive organizational success while improving user experiences.
+I'm also keen on exploring emerging technologies such as machine learning, artificial intelligence, neuroscience, neuropharmacology, and nootropics (my personal passion) to stay at the forefront of technological advancements.
 
 * 🌍  I'm based in Connecticut
 * ✉️  You can contact me at [lsvirsky@wesleyan.edu](mailto:lsvirsky@wesleyan.edu)
-* 🧠  I'm learning Python, Java, C, and SML.
+* 🧑‍🎓  I'm learning Python, Java, C, and SML.
+* 🧠  Check out my company and neuropharmacology blog, [NootropicHQ](https://www.nootropichq.com)! 
 
-<a href="https://www.github.com/lucas-svi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lucas-svi?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
-### Skills
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-svirsky-00a96922b/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=white)](https://leetcode.com/u/LucasSvi/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lucas-svir) 
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
+# 💻 Tech Stack:
 
-### Socials
+## Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![SML](https://img.shields.io/badge/sml-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
-<p align="left"> <a href="https://discord.com/users/645360657142775874" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/lucas-svi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lucas-svirsky-00a96922b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+## Hosting
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
 
+## Servers
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
-<b>My GitHub Stats</b>
+## Machine Learning
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-<a href="http://www.github.com/lucas-svi"><img src="https://github-readme-stats.vercel.app/api?username=lucas-svi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=6366f1&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="lucas-svi's GitHub stats" /></a>
+## Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+
+# 📊 Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-svi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
