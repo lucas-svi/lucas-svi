@@ -4,13 +4,13 @@ Sup 😎. I'm Lucas.
 Student, Entrepreneur, Developer
 --------------------------------
 
-I've been developing applications for the majority of my life, starting with modifying Minecraft and creating unique client modifications for the game, and even creating my own company out of it—Novoline. I'm now a student at Wesleyan University, studying both Computer Science and Organizations and Business in Society—a major I created. 
+I've been developing applications for the majority of my life, starting with modifying Minecraft and creating unique client modifications for the game, and even creating my own company out of it—Novoline. I'm now a student at Wesleyan University, studying both Computer Science and Artificial Business—a major I created. 
 I'm interested in developing my business and technology knowledge to develop innovative solutions to drive organizational success while improving user experiences.
-I'm also keen on exploring emerging technologies such as machine learning, artificial intelligence, neuroscience, neuropharmacology, and nootropics (my personal passion) to stay at the forefront of technological advancements.
+I'm also keen on exploring emerging technologies such as artificial intelligence and Web3 to stay on the forefront of technological advancements.
 
 * 🌍  I'm based in Connecticut
 * ✉️  You can contact me at [lsvirsky@wesleyan.edu](mailto:lsvirsky@wesleyan.edu)
-* 🧑‍🎓  I'm learning Python, Java, C, and SML.
+* 🧑‍🎓  I currently utilize Python, Java, JavaScript, PHP, and Solidity.
 * 🧠  Check out my company and neuropharmacology blog, [NootropicHQ](https://www.nootropichq.com)! 
 
 ## 🌐 Socials:
