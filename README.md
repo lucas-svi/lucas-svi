@@ -11,7 +11,7 @@ I'm also keen on exploring emerging technologies such as artificial intelligence
 * 🌍  I'm based in Connecticut
 * ✉️  You can contact me at [lsvirsky@wesleyan.edu](mailto:lsvirsky@wesleyan.edu)
 * 🧑‍🎓  I currently utilize Python, Java, JavaScript, PHP, and Solidity.
-* 🧠  Check out my company and neuropharmacology blog, [NootropicHQ](https://www.nootropichq.com)! 
+* 🧠  Check out my personal website, https://www.svirsky.dev! 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-svirsky-00a96922b/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=white)](https://leetcode.com/u/LucasSvi/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lucas-svir) 
