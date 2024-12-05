@@ -1,7 +1,7 @@
 Sup 😎. I'm Lucas.
 ==============================
 
-Student, Entrepreneur, Developer
+Student, Developer, Entrepreneur
 --------------------------------
 
 I've been developing applications for the majority of my life, starting with modifying Minecraft and creating unique client modifications for the game, and even creating my own company out of it—Novoline. I'm now a student at Wesleyan University, studying both Computer Science and Artificial Business—a major I created. 
