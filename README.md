@@ -1,4 +1,4 @@
-Sup 😎. I'm Lucas.
+Hey, I'm Lucas.
 ==============================
 
 Student, Developer, Entrepreneur
