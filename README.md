@@ -14,7 +14,7 @@ I'm also keen on exploring emerging technologies such as artificial intelligence
 * 🧠  Check out my personal website, https://www.svirsky.dev! 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-svirsky-00a96922b/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=white)](https://leetcode.com/u/LucasSvi/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lucas-svir) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-svirsky-00a96922b/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=white)](https://leetcode.com/u/LucasSvi/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lucas-svir) 
 
 # 💻 Technical Stuff:
 
