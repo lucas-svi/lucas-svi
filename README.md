@@ -4,9 +4,7 @@ Hey, I'm Lucas.
 Student, Developer, Entrepreneur
 --------------------------------
 
-I've been developing applications for the majority of my life, starting with modifying Minecraft and creating unique client modifications for the game, and even creating my own company out of it—Novoline. I'm now a student at Wesleyan University, studying both Computer Science and Artificial Business—a major I created. 
-I'm interested in developing my business and technology knowledge to develop innovative solutions to drive organizational success while improving user experiences.
-I'm also keen on exploring emerging technologies such as artificial intelligence and Web3 to stay on the forefront of technological advancements.
+I've been passionate about software development for most of my life, beginning with modifying Minecraft and developing unique client enhancements for the game, an experience that led me to found my own company, Novoline. Currently, I'm a student at Wesleyan University, studying Computer Science and exploring interdisciplinary fields that blend technology and entrepreneurship, even making my own major—Artificial Business. Beyond academia, I'm actively gaining industry experience as a SWE Intern at Enclave Markets and am an incoming SDE Intern at Amazon. My journey has been driven by a continuous desire to innovate and solve meaningful problems through technology.
 
 * 🌍  I'm based in Connecticut
 * ✉️  You can contact me at [lsvirsky@wesleyan.edu](mailto:lsvirsky@wesleyan.edu)
